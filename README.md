@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice master line
 Дополнительная строка
 v2
 new_line
